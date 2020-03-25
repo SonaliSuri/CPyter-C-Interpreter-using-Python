@@ -8,3 +8,5 @@ for C programming language while developing the Parser and
 Interpreter for C using Python.
 
 Please refer PL_Project_Sub.pdf for details
+Results: 
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_1.png)

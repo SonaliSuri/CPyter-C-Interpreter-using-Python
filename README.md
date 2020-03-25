@@ -8,5 +8,43 @@ for C programming language while developing the Parser and
 Interpreter for C using Python.
 
 Please refer PL_Project_Sub.pdf for details
+
 Results: 
+
+1. Print Statement
+
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_1.png)
 ![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_1.png)
+
+2.
+
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_2.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_2.png)
+
+3.
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_3.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_3.png)
+
+4.
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_4.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_4.png)
+
+5.
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_5.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_5.png)
+
+6.
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_6.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_6.png)
+
+7.
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_7.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_7.png)
+
+8.
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_8.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_8.png)
+
+9.
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_9.png)
+![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_9.png)

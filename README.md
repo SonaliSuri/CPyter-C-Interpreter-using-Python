@@ -19,7 +19,7 @@ Results:
 ![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_2.png)
 ![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_2.png)
 
-**3. User Input **
+**3. User Input**
 ![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/test_3.png)
 ![Image description](https://github.com/SonaliSuri/CPyter-C-Interpreter-using-Python/blob/master/output_3.png)
 

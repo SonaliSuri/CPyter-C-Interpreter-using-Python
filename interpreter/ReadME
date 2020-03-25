@@ -1,0 +1,10 @@
+To execute the code:
+run the code as
+
+1. python3 ccompiler.py -f test_1.c
+
+where test_1.c is the file with test code.
+
+2.  python3 ccompiler.py -c '#include<stdio.h> void main() {int x=0; printf("%d",x);}'
+
+where direct code can be provided as an input.
